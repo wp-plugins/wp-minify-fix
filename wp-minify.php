@@ -3,7 +3,7 @@
 Plugin Name: WP Minify Fix
 Plugin URI: http://omninoggin.com/wordpress-plugins/wp-minify-wordpress-plugin/
 Description: [Fixed] This plugin uses the Minify engine to combine and compress JS and CSS files to improve page load time.
-Version: 1.3.1
+Version: 1.3.1.1
 Author: NodeCode
 Author URI: http://nodecode.de
 */
